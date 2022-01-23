@@ -1,4 +1,4 @@
-### Vanakkam, I'm Naveen Joshuva  👋
+### வணக்கம் (Vanakkam), I'm Naveen Joshuva  👋
 
 - 🔭 I’m currently working on Java Projects.
 - 🌱 I’m currently learning Java.
