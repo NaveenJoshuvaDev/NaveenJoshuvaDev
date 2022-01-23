@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Youtube.
 - 🤔 I’m looking for help with DataStructure and Algorithm.
 - 💬 Ask me about Java
-- 📫 How to reach me: Twitter -@JoshuvaDev [Twitter -@JoshuvaDev](https://twitter.com/JoshuvaDev)
+- 📫 How to reach me: [Twitter -@JoshuvaDev](https://twitter.com/JoshuvaDev)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I can Do More Stuff When I Work/Play with a Team.
 
