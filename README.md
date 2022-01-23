@@ -9,3 +9,4 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I can Do More Stuff When I Work/Play with a Team.
 
+<img src= "https://github-readme-stats.vercel.app/api?username=NaveenJoshuvaDev&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
