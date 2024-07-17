@@ -1,7 +1,7 @@
 ### வணக்கம் (Vanakkam), I'm Naveen Joshuva  👋
 
-- 🔭 I’m currently working on React JS Projects.
-- 🌱 I’m currently learning React JS.
+- 🔭 I’m currently working as PHP Developer.
+- 🌱 I’m currently learning Programming.
 - 👯 I’m looking to collaborate on Youtube -[@Naveen Joshuva](https://www.youtube.com/channel/UCcpeP6cWEabd6pbkfPsC8Jw)
 - 😄 Pronouns: He/His.
 - 🤔 I’m looking for help with DataStructure and Algorithm.
